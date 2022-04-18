@@ -2,3 +2,4 @@ Chrome
 Firefox
 Internet Explorer
 Microsoft Edge
+Duck Duck
