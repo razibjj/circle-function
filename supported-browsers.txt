@@ -1,2 +1,4 @@
 Chrome
 Firefox
+Internet Explorer
+Microsoft Edge
